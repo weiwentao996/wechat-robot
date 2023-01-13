@@ -1,0 +1,5 @@
+gpt_token: 'xxxxxxxxxxxxxxxx'
+work_mode: 1
+start_key_word: '开启自动回复'
+end_key_word: '关闭自动回复'
+prefix_word: 'robot'
